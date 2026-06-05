@@ -246,7 +246,7 @@ Ford-Car-Price-Prediction/
 │
 ├── ford.csv
 ├── project.ipynb
-├── README.md
+├── Readme.md
 │
 └── assets/
     ├── correlation_heatmap.png
