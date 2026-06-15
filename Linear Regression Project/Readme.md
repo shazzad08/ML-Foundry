@@ -245,8 +245,8 @@ Feature engineering successfully enhanced the model's ability to capture relatio
 Ford-Car-Price-Prediction/
 │
 ├── ford.csv
-├── Ford_Price_Prediction.ipynb
-├── README.md
+├── project.ipynb
+├── Readme.md
 │
 └── assets/
     ├── correlation_heatmap.png
